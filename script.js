@@ -1,0 +1,1 @@
+alert("Este sitio web no tiene ningun proposito de ofender a ninguna persona")
